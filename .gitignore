@@ -1,0 +1,20 @@
+# Arquivos de ambiente
+.env
+
+# Dados e Modelos
+data/
+models/
+
+# Caches e logs
+.ipynb_checkpoints/
+*.log
+
+# Arquivos específicos do R
+.Rhistory
+.RData
+.Rproj.user/
+*.Rout
+*.rds
+*.Rds
+*.html
+rsconnect/
