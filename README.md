@@ -27,6 +27,6 @@ O pipeline pode ser executado através do script `run_pipeline.R`. Este script o
 
 ## Dependências
 
-O projeto utiliza pacotes R como `shiny`, `dplyr`, `tidyr`, `ggplot2`, `gridExtra`, `moments`, entre outros. As dependências são gerenciadas e instaladas automaticamente pelo `install_packages.R`.
+O projeto utiliza pacotes R como `dplyr`, `tidyr`, `ggplot2`, `gridExtra`, `moments`, entre outros. As dependências são gerenciadas e instaladas automaticamente pelo `install_packages.R`.
 
 Para a execução do notebook Jupyter, é necessário ter o `jupyter` e o `nbconvert` instalados e acessíveis no PATH do sistema.
